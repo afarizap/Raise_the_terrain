@@ -1,5 +1,5 @@
-#ifndef _DEMO_H
-#define _DEMO_H
+#ifndef _TERRAIN_H
+#define _TERRAIN_H
 
 #include <SDL2/SDL.h>
 #include <stdio.h>

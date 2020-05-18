@@ -1,4 +1,4 @@
-#include "demo.h"
+#include "terrain.h"
 
 float matrix[8][8];
 
